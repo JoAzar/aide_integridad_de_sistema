@@ -56,4 +56,9 @@ LOS PERMISOS Y LAS CARPETAS SE PUEDEN CAMBIAR OBVIAMENTE
 
 ---
 
+## Para más información
+
+https://docs.redhat.com/es/documentation/red_hat_enterprise_linux/8/html/security_hardening/checking-integrity-with-aide_security-hardening#installing-aide_checking-integrity-with-aide
+
+---
 Creado por Joel Zalazar
